@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>S.MART Privacy Notice</title>
+<style>
+
+    body {
+
+      font-family: Arial, sans-serif;
+
+      line-height: 1.6;
+
+      margin: 20px;
+
+      max-width: 800px;
+
+    }
+
+    h1, h2 {
+
+      color: #003366;
+
+    }
+
+    ul {
+
+      margin-top: 0;
+
+    }
+</style>
+</head>
+<body>
+<h1>S.MART PRIVACY NOTICE</h1>
+<p><strong>Version: 27.03.2025</strong></p>
+ 
+  <h2>Why does this privacy notice exist?</h2>
+<p>With this privacy notice, Aramark GmbH (Aramark or we) informs you about the nature, scope, and purpose of the processing of personal data (data) that takes place in connection with a purchase of Aramark goods in our smart store solution (S.Mart).</p>
+ 
+  <h2>Data controller</h2>
+<p>
+
+    Aramark GmbH<br/>
+
+    Amelia-Mary-Earhart-Str. 11<br/>
+
+    60549 Frankfurt am Main
+</p>
+ 
+  <h2>Contact details of Data Protection Officer</h2>
+<p>
+
+    Aramark GmbH<br/>
+
+    Data Protection Officer<br/>
+
+    Amelia-Mary-Earhart-Str. 11<br/>
+
+    60549 Frankfurt am Main<br/>
+<a href="mailto:datenschutzbeauftragter@aramark.de">datenschutzbeauftragter@aramark.de</a>
+</p>
+ 
+  <h2>What personal data is collected?</h2>
+<p>In connection with the use of the S.Mart app and your purchases, the following data may be processed:</p>
+<ul>
+<li>User account data (e.g., username, e-mail address)</li>
+<li>Purchase data (e.g., object of purchase, amount)</li>
+<li>Transaction data (e.g., transaction ID, date, card issuer, last four digits of PAN, terminal ID)</li>
+<li>Loyalty program data (e.g., member ID, bonus points)</li>
+<li>Device and meta data (e.g., IP address, device model, OS version)</li>
+<li>Location data (only with user opt-in)</li>
+<li>Push notification tokens (only with user opt-in)</li>
+<li>Message content if you contact us</li>
+</ul>
+ 
+  <p>Also, the S.Mart ceiling cameras generate visuals for brief, anonymized analysis purposes. These recordings are immediately obfuscated and cannot be traced back to individuals.</p>
+ 
+  <h2>For what purpose and on what legal basis is the processing carried out?</h2>
+<ul>
+<li><strong>Shopping experience:</strong> For access, purchases, and billing. Legal basis: GDPR Art. 6(1)(b) and (f).</li>
+<li><strong>Device data:</strong> To provide secure and stable app usage. Legal basis: GDPR Art. 6(1)(f).</li>
+<li><strong>Consent-based features:</strong> Location and push tokens. Legal basis: GDPR Art. 6(1)(a).</li>
+<li><strong>Analytics:</strong> Anonymous and aggregated data. Legal basis: GDPR Art. 6(1)(f).</li>
+<li><strong>Inquiries:</strong> Support via email or contact form. Legal basis: GDPR Art. 6(1)(b).</li>
+<li><strong>Legal obligations and claims:</strong> Sharing data with public bodies if required. Legal basis: GDPR Art. 6(1)(c) and (f).</li>
+</ul>
+ 
+  <h2>With whom do we share your data?</h2>
+<p>
+<strong>Payfree GmbH</strong> – RFID technology provider (Germany).<br/>
+<strong>Adyen N.V.</strong> – Payment service provider (Netherlands).<br/>
+<strong>SAP SE</strong> – Technology provider for app and store systems.<br/>
+</p>
+<p>Some processing may occur outside the EEA under EU Standard Contractual Clauses. Contact us for more details.</p>
+ 
+  <h2>How long do we store personal data?</h2>
+<p>Data is stored as long as necessary for its purpose and based on legal retention periods (6–8 years). When no longer needed, it is anonymized or securely deleted.</p>
+ 
+  <h2>Your rights as a data subject</h2>
+<ul>
+<li>Right to information</li>
+<li>Right to rectification</li>
+<li>Right to erasure</li>
+<li>Right to withdraw consent</li>
+<li>Right to restrict processing</li>
+<li>Right to data portability</li>
+<li>Right to lodge a complaint</li>
+</ul>
+<p>Supervisory Authority:</p>
+<p>
+
+    Hessian Commissioner for Data Protection and Freedom of Information (HBDI)<br/>
+
+    Gustav-Stresemann-Ring 1, 65189 Wiesbaden<br/>
+
+    Phone: +49 611-1408-0<br/>
+
+    Email: <a href="mailto:DSB@datenschutz.hessen.de">DSB@datenschutz.hessen.de</a>
+</p>
+ 
+  <h2>Validity of this privacy notice</h2>
+<p>This notice may be updated. Please review regularly for updates.</p>
+</body>
+</html>
+
+ 
